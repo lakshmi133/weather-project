@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-dashboard-app/static/css/main.e6c13ad2.css",
+    "main.js": "/weather-dashboard-app/static/js/main.451f7a5d.js",
+    "static/js/453.5827184a.chunk.js": "/weather-dashboard-app/static/js/453.5827184a.chunk.js",
+    "index.html": "/weather-dashboard-app/index.html",
+    "main.e6c13ad2.css.map": "/weather-dashboard-app/static/css/main.e6c13ad2.css.map",
+    "main.451f7a5d.js.map": "/weather-dashboard-app/static/js/main.451f7a5d.js.map",
+    "453.5827184a.chunk.js.map": "/weather-dashboard-app/static/js/453.5827184a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.451f7a5d.js"
+  ]
+}
